@@ -11,11 +11,11 @@ bash droidDevices.sh
 ```
 
 ```
-bash rename.sh
+bash appendFile.sh
 ```
 
 ```
-bash appendFile.sh
+bash rename.sh
 ```
 
 ```
