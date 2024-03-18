@@ -7,6 +7,8 @@ echo
 echo "What do you want the file to say?"
 read content
 
+rm -r $folder
+
 mkdir $folder
 cd $folder
 

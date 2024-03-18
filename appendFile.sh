@@ -2,9 +2,9 @@
 
 echo "Let's make a text file"
 
-touch text.txt
+touch text
 
-echo "This is some text" >> text.txt
+echo "This is some text" >> text
 
 echo "What is your name?"
 read name
